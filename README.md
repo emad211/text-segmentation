@@ -1,0 +1,2 @@
+# text-segmentation
+python-project 
